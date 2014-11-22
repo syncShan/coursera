@@ -5,7 +5,9 @@ Run "R -f run_analysis.R" then will generate the "output.txt" in the folder.
 The codebook of the output file is:
 ----------------------
  activity: class labels of actvity name the value is in (LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS)
+ 
  subject: who peform the activity for each window sample. It's range is from 1 to 30
+ 
  tBodyAcc-mean-X: average value of tBodyAcc-mean-X of the subject and actvitiy 
  tBodyAcc-mean-Y: average value of tBodyAcc-mean-Y of the subject and actvitiy 
  tBodyAcc-mean-Z: average value of tBodyAcc-mean-Z of the subject and actvitiy 
